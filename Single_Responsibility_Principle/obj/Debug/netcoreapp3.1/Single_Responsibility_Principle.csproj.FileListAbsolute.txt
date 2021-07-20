@@ -1,0 +1,13 @@
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\bin\Debug\netcoreapp3.1\Single_Responsibility_Principle.exe
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\bin\Debug\netcoreapp3.1\Single_Responsibility_Principle.deps.json
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\bin\Debug\netcoreapp3.1\Single_Responsibility_Principle.runtimeconfig.json
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\bin\Debug\netcoreapp3.1\Single_Responsibility_Principle.runtimeconfig.dev.json
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\bin\Debug\netcoreapp3.1\Single_Responsibility_Principle.dll
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\bin\Debug\netcoreapp3.1\Single_Responsibility_Principle.pdb
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\obj\Debug\netcoreapp3.1\Single_Responsibility_Principle.csprojAssemblyReference.cache
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\obj\Debug\netcoreapp3.1\Single_Responsibility_Principle.AssemblyInfoInputs.cache
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\obj\Debug\netcoreapp3.1\Single_Responsibility_Principle.AssemblyInfo.cs
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\obj\Debug\netcoreapp3.1\Single_Responsibility_Principle.csproj.CoreCompileInputs.cache
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\obj\Debug\netcoreapp3.1\Single_Responsibility_Principle.dll
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\obj\Debug\netcoreapp3.1\Single_Responsibility_Principle.pdb
+C:\Users\Jerick\Desktop\Project Templates\C#\SOLID Coding\1.S\Single_Responsibility_Principle\Single_Responsibility_Principle\obj\Debug\netcoreapp3.1\Single_Responsibility_Principle.genruntimeconfig.cache

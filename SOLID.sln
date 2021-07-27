@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{5A8A3D12-5482-41EE-95E9-88370221F95F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov_substitution_principle", "Liskov_substitution_principle\Liskov_substitution_principle.csproj", "{2A4A750D-7A07-4942-AB35-7B0F69AC6E73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Open-closed principle", "Open-closed principle", "{1E950FC7-B0E4-4EBE-B70D-8CE832EF8EA7}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.md = TextFile1.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{5A8A3D12-5482-41EE-95E9-88370221F95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A8A3D12-5482-41EE-95E9-88370221F95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A8A3D12-5482-41EE-95E9-88370221F95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4A750D-7A07-4942-AB35-7B0F69AC6E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4A750D-7A07-4942-AB35-7B0F69AC6E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4A750D-7A07-4942-AB35-7B0F69AC6E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4A750D-7A07-4942-AB35-7B0F69AC6E73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

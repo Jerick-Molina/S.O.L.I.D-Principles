@@ -1,0 +1,2 @@
+Project "Single_Responsiblity_Principle" uses Open-closed principle because lets say it's published and I wanted to add more logic about being able to add that the player chooses how many lives it has. It wouldnt affect the other code and it will still run how it
+should. I wouldnt have to change any other code to make it work.
